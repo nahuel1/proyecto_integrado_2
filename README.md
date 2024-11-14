@@ -1,2 +1,2 @@
 # proyecto_integrado_2
-trabajo de articulación de conocimientos para la materia informatica de la carrera de Preceptoria. Segundo año
+trabajo de articulación de conocModelo de Examen Final Tipo 2 - Este proyecto Integra conocimientos de Procesador de Texto, Planillas de calculo,, Github, Colab, Publicacion.
